@@ -80,7 +80,7 @@
 [![Farah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farahdee)](https://github.com/farahdee/github-readme-activity-graph)
 
 ## Connect With Me
-- 🔗 GitHub: farahdee
+- 🔗 GitHub: [farahdee](https://github.com/farahdee)
 - 📧 Email: farah54600@gmail.com
-- 💼 LinkedIn: linkedin.com/in/farah-adilah-azman-153b0938a
+- 💼 LinkedIn: [farah adilah azman](https://www.linkedin.com/in/farah-adilah-azman-153b0938a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM4QrMFjVRsmEAMPOCgz7og%3D%3D)
   

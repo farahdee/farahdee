@@ -77,7 +77,7 @@
 - Software & Tools : Canva, Microsoft Word, Microsoft Excel, Capcut
 
 ## Github Activity Graph
-
+[![Farah's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=farahdee)](https://github.com/farahdee/github-readme-activity-graph)
 
 ## Connect With Me
 - 🔗 GitHub: farahdee

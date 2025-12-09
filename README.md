@@ -90,4 +90,5 @@
 - 🔗 GitHub: [farahdee](https://github.com/farahdee)
 - 📧 Email: farah54600@gmail.com
 - 💼 LinkedIn: [farah adilah azman](https://www.linkedin.com/in/farah-adilah-azman-153b0938a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BM4QrMFjVRsmEAMPOCgz7og%3D%3D)
+- E-Portfolio: [E-Portfolio](https://www.canva.com/design/DAG6_09_oAI/84Ub_mbWY2mkf42OjkqFjg/edit?ui=eyJBIjp7fX0)
   

@@ -15,4 +15,4 @@
 <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/76da5f69-3d26-40a4-9954-48e1bd966ec9" />
 
 # Canva version
-[E-Portfolio](https://www.canva.com/design/DAG6_09_oAI/84Ub_mbWY2mkf42OjkqFjg/edit?ui=eyJBIjp7fX0)
+[E-Portfolio](https://www.canva.com/design/DAG6_09_oAI/84Ub_mbWY2mkf42OjkqFjg/edit?utm_content=DAG6_09_oAI&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)

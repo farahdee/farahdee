@@ -65,11 +65,18 @@
     - UTMD InsightX 4 "Digital Infra & Data Engineering": Participation (2025)
 
 ## Courses
-- Digital Logic
-- Programming Technique 1
-- Discrete Structure
-- Technology & Information System
-- Intergrity & Anti-Corruption Course
+[SECI1013-Discrete Structure](https://github.com/farahdee/SECI1013-Discrete-Structure)
+
+[SECP1513-Technology & Information System](https://github.com/farahdee/SECP1513-Technology-Information-System)
+
+[SECJ1013-Programming Technique 1](https://github.com/farahdee/SECJ1013-Programming-Technique-1)
+
+[SECR1013-Digital Logic](https://github.com/farahdee/SECR1013-Digital-Logic)
+
+[ULRS1032-Intergrity & Anti-Corruption Course](https://github.com/farahdee/ULRS1032-Intergrity-Anti-Corruption-Course)
+
+## Projects
+[Car Rental Program - Debugging Report (C++)](https://github.com/farahdee/Projects)
 
 ## Skills
 - Programming: Java, C++

@@ -30,6 +30,7 @@
    
   - Universiti Teknologi Malaysia
     - SUSKOM'25: AJK Aktiviti (2025)
+    - Karnival Maju Johor: Rakan Cheval (2025)
    
 ## Participation and Awards
   - SMK Infant Jesus Convent

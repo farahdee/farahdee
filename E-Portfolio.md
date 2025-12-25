@@ -8,10 +8,6 @@
 
 <img width="1920" height="1080" alt="5" src="https://github.com/user-attachments/assets/f422bc54-290f-4505-92cb-a96b100458b9" />
 
-<img width="1920" height="1080" alt="6" src="https://github.com/user-attachments/assets/c97350f2-5e72-4dcc-8fa5-2e26cc9dd9b9" />
-
-<img width="1920" height="1080" alt="7" src="https://github.com/user-attachments/assets/702bb8d1-a8bc-4700-baa6-e06db8ef83c2" />
-
 <img width="1920" height="1080" alt="8" src="https://github.com/user-attachments/assets/76da5f69-3d26-40a4-9954-48e1bd966ec9" />
 
 # Canva version

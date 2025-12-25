@@ -77,7 +77,7 @@
 [ULRS1032-Intergrity & Anti-Corruption Course](https://github.com/farahdee/ULRS1032-Intergrity-Anti-Corruption-Course)
 
 ## Projects
-[Car Rental Program - Debugging Report (C++)](https://github.com/farahdee/Projects)
+[Car Rental Program](https://github.com/farahdee/Projects)
 
 ## Skills
 - Programming: Java, C++
